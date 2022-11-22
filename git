@@ -1,0 +1,16 @@
+
+git init //
+
+git status // to see the changes
+
+git commit -m “write any msg u want”
+
+git add // add specific list of file
+
+git add --all //add all files of the direcctory
+
+git remote add origin https://github.com/manikaustubh12/
+
+git branch // to see in which branch
+
+git push -u origin master // to push the files
