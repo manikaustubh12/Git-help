@@ -1,22 +1,25 @@
 
-git init //
+>> git init //
 
-git status // to see the changes
+>> git status // to see the changes
 
-git commit -m “write any msg u want”
+>> git commit -m “write any msg u want”
 
-git add // add specific list of file
+>> git add // add specific list of file
 
-git add --all //add all files of the direcctory
+>> git add --all //add all files of the direcctory
 
-git remote add origin https://github.com/manikaustubh12/
+>> git remote add origin https://github.com/manikaustubh12/
 
-git branch // to see in which branch
+>> git branch // to see in which branch
 
-git push -u origin master // to push the files
+>> git push -u origin master // to push the files
 
 // to create the new branch 
-git branch -c new_branch _name
+>> git branch -c new_branch _name
 
 // to switch into the other branch 
-git branch -M branch_name
+>> git branch -M branch_name
+
+// Or we can give the command as
+>> git checkout branch_name
