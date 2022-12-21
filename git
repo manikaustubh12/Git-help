@@ -17,3 +17,6 @@ git push -u origin master // to push the files
 
 // to create the new branch 
 git branch -c new_branch _name
+
+// to switch into the other branch 
+git branch -M branch_name
