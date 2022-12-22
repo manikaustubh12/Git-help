@@ -5,7 +5,7 @@
 
 >> git commit -m “write any msg u want”
 
->> git add // add specific list of file
+>> git add filename // add specific list of file
 
 >> git add --all //add all files of the direcctory
 
