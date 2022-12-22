@@ -13,7 +13,7 @@
 
 >> git branch // to see in which branch
 
->> git push -u origin master // to push the files
+>> git push -u origin branch_name // to push the files
 
 // to create the new branch 
 >> git branch -c new_branch _name
