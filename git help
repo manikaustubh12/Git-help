@@ -23,3 +23,7 @@
 
 // Or we can give the command as
 >> git checkout branch_name
+
+// when you are facing the error as the repository fatal error give command as 
+git remote set-url origin your_repository_url(ex:- https://github.com/manikaustubh12/Web-Prac.git)
+
