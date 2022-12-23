@@ -19,7 +19,7 @@
 >> git branch -c new_branch _name
 
 // to switch into the other branch 
->> git branch -M branch_name
+# git branch -M branch_name
 
 // Or we can give the command as
 >> git checkout branch_name
