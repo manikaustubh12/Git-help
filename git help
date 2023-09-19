@@ -7,7 +7,7 @@
 
 >> git add filename // add specific list of file
 
->> git add --all //add all files of the direcctory
+>> git add ./--all //add all files of the direcctory
 
 >> git remote add origin https://github.com/manikaustubh12/
 
